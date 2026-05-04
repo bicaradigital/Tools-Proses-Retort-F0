@@ -23,3 +23,28 @@ streamlit run app.py
 - Perhitungan F0 otomatis
 - Ekspor laporan PDF
 
+📄 Lisensi
+Copyright © 2024 — All Rights Reserved.
+Aplikasi ini merupakan produk digital komersial milik Bicara Digital yang dilindungi hak cipta dan dibuat untuk PT Rumah Retort Bersama. Penggunaan, distribusi, modifikasi, atau reproduksi dalam bentuk apapun tanpa izin tertulis dari pemilik adalah dilarang.
+❌ Yang TIDAK diperbolehkan:
+
+Menyalin, mendistribusikan, atau menjual ulang kode ini
+Memodifikasi dan mengklaim sebagai karya sendiri
+Menggunakan kode ini untuk keperluan komersial tanpa lisensi resmi
+Membagikan akses repository kepada pihak ketiga
+
+✅ Yang diperbolehkan (dengan pembelian lisensi):
+
+Menggunakan aplikasi untuk satu properti kost milik sendiri
+Melakukan kustomisasi minor sesuai kebutuhan bisnis
+Mendapatkan update dan dukungan teknis dari developer
+
+💼 Pembelian Lisensi & Informasi Lebih Lanjut
+Untuk pembelian lisensi, kustomisasi, atau pertanyaan bisnis:
+
+📧 Email: tambahkan email kamu
+💬 WhatsApp: tambahkan nomor WhatsApp kamu
+
+
+
+⚠️ Pelanggaran terhadap ketentuan lisensi ini dapat dikenakan tindakan hukum sesuai peraturan perundang-undangan yang berlaku.
